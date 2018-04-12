@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.exe.config
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.exe
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.exe
+C:\Users\Admin\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.exe.config
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\bin\Debug\Ejercicio Nro 16.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 16\obj\Debug\Ejercicio Nro 16.pdb

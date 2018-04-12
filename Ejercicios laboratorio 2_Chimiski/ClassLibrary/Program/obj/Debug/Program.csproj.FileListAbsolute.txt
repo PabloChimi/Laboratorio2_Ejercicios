@@ -1,0 +1,8 @@
+D:\VisualStudio\ClassLibrary\Program\bin\Debug\Program.exe.config
+D:\VisualStudio\ClassLibrary\Program\bin\Debug\Program.exe
+D:\VisualStudio\ClassLibrary\Program\bin\Debug\Program.pdb
+D:\VisualStudio\ClassLibrary\Program\bin\Debug\ClassLibrary.dll
+D:\VisualStudio\ClassLibrary\Program\bin\Debug\ClassLibrary.pdb
+D:\VisualStudio\ClassLibrary\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ClassLibrary\Program\obj\Debug\Program.exe
+D:\VisualStudio\ClassLibrary\Program\obj\Debug\Program.pdb

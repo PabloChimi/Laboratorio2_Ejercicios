@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20 Libreria\bin\Debug\Ejercicio Nro 20 Libreria.dll
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20 Libreria\bin\Debug\Ejercicio Nro 20 Libreria.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20 Libreria\obj\Debug\Ejercicio Nro 20 Libreria.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20 Libreria\obj\Debug\Ejercicio Nro 20 Libreria.dll
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20 Libreria\obj\Debug\Ejercicio Nro 20 Libreria.pdb

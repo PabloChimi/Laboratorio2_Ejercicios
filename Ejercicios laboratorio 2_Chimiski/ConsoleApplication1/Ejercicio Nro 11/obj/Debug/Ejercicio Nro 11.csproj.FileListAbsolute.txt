@@ -1,0 +1,18 @@
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe.config
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.pdb
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.exe
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe.config
+C:\Users\alumno\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.exe
+C:\Users\alumno\Desktop\VisualStudio (1)\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe.config
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 11\bin\Debug\Ejercicio Nro 11.exe.config
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 11\obj\Debug\Ejercicio Nro 11.pdb

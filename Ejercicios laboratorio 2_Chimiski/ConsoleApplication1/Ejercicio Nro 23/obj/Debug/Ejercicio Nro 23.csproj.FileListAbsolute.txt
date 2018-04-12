@@ -1,0 +1,11 @@
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.exe.config
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio_Nro_23.Form1.resources
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio_Nro_23.Properties.Resources.resources
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.exe
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 20.exe
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 20.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.exe
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.pdb

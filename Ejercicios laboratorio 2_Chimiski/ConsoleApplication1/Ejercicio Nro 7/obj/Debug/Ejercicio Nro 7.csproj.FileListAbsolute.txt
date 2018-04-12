@@ -1,0 +1,2 @@
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe.config
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.csproj.CoreCompileInputs.cache

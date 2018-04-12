@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.exe.config
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.exe
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.pdb
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.exe
+C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.pdb

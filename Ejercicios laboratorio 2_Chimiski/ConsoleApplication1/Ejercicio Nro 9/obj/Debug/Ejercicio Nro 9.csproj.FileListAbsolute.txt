@@ -1,0 +1,13 @@
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe.config
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.pdb
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csprojResolveAssemblyReference.cache
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.exe
+D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe.config
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.pdb
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.exe
+C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.pdb
