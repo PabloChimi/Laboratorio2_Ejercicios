@@ -11,3 +11,8 @@ C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\ConsoleApplicatio
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\Ejercicio Nro 1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -47,6 +47,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Ejercicio nro 20 Librerias\Ejercicio nro 20 Librerias.csproj">
+      <Project>{6b4de2fe-9751-41b3-af73-3510d95df042}</Project>
+      <Name>Ejercicio nro 20 Librerias</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

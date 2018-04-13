@@ -11,3 +11,8 @@ C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Clase Nro5\bin
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Clase Nro5\bin\Debug\Clase Nro5.pdb
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Clase Nro5\obj\Debug\Clase Nro5.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Clase Nro5\obj\Debug\Clase Nro5.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Clase Nro5\bin\Debug\Clase Nro5.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Clase Nro5\bin\Debug\Clase Nro5.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Clase Nro5\bin\Debug\Clase Nro5.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Clase Nro5\obj\Debug\Clase Nro5.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Clase Nro5\obj\Debug\Clase Nro5.pdb

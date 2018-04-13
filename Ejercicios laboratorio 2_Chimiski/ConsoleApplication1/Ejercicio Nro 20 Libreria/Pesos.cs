@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_Nro_20
+namespace Ejercicio_Nro_20_Libreria
 {
-    class Pesos
+    public class Pesos
     {
         private double cantidad;
         private float cotizacionRespectoAlDolar;

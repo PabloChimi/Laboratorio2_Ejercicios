@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Ejercicio_nro_20_Librerias;
 
 namespace Ejercicio_Nro_23
 {
@@ -49,10 +50,36 @@ namespace Ejercicio_Nro_23
 
         private void button3_Click(object sender, EventArgs e)
         {
+            double valorPrueba;
             double valor = double.Parse(textBox1.Text);
-            Euro e = new Euro(0);
+            Euro euro = new Euro(valor);
             textBox2.Text = textBox1.Text;
-            //textBox3.Text = 
+            Dolar dolar = (Dolar) euro;
+            textBox3.Text = String.Format("{0}", dolar.getCantidad());
+            Pesos pesos = (Pesos) dolar;
+            valorPrueba = pesos.getCantidad();
+            textBox4.Text = String.Format("{0}", pesos.getCantidad());
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            double valor = double.Parse(textBox8.Text);
+            Dolar dolar = new Dolar(valor);
+
+            textBox10.Text = textBox8.Text;
+
+            Euro euro = (Euro)dolar;
+            textBox9.Text = String.Format("{0}", euro.getCantidad());
+
+            Pesos pesos = (Pesos)dolar;
+            textBox11.Text = String.Format("{0}", pesos.getCantidad());
+
         }
     }
 }

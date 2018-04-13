@@ -11,3 +11,8 @@ C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 5\o
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 5\obj\Debug\Ejercicio Nro 5.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 5\obj\Debug\Ejercicio Nro 5.exe
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 5\obj\Debug\Ejercicio Nro 5.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 5\bin\Debug\Ejercicio Nro 5.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 5\bin\Debug\Ejercicio Nro 5.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 5\bin\Debug\Ejercicio Nro 5.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 5\obj\Debug\Ejercicio Nro 5.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 5\obj\Debug\Ejercicio Nro 5.pdb

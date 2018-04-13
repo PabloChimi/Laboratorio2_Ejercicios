@@ -11,3 +11,8 @@ C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\o
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.exe
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 9\bin\Debug\Ejercicio Nro 9.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 9\obj\Debug\Ejercicio Nro 9.pdb

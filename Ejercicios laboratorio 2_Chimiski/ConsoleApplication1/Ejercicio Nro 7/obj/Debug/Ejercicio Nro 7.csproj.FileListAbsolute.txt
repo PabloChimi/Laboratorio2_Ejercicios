@@ -1,2 +1,7 @@
 D:\VisualStudio\ConsoleApplication1\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe.config
 C:\Users\Admin\Desktop\VisualStudio (1)2.0\ConsoleApplication1\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 7\bin\Debug\Ejercicio Nro 7.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 7\obj\Debug\Ejercicio Nro 7.pdb

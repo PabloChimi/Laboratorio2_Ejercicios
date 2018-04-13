@@ -9,3 +9,14 @@ C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 20.pdb
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.exe
 C:\Users\alumno\Desktop\VisualStudio (1)2.0.3\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio_Nro_23.Form1.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio_Nro_23.Properties.Resources.resources
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio Nro 23.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio nro 20 Librerias.dll
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\bin\Debug\Ejercicio nro 20 Librerias.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 23\obj\Debug\Ejercicio Nro 23.pdb

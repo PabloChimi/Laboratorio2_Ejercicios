@@ -78,9 +78,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ejercicio Nro 20 Libreria\Ejercicio Nro 20 Libreria.csproj">
-      <Project>{178c0bd8-a5e4-4820-9101-69eaaa2a29b7}</Project>
-      <Name>Ejercicio Nro 20 Libreria</Name>
+    <ProjectReference Include="..\Ejercicio nro 20 Librerias\Ejercicio nro 20 Librerias.csproj">
+      <Project>{6b4de2fe-9751-41b3-af73-3510d95df042}</Project>
+      <Name>Ejercicio nro 20 Librerias</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
