@@ -70,6 +70,9 @@ namespace Ejercicio_Nro_27
             Console.ReadLine();
         }
 
+
+        //Funciones de comparación.
+
         public static int CompararEnteros(int a, int b)
         {
             return Math.Sign(a.CompareTo(b));
