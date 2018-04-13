@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\bin\Debug\Ejercicio Nro 27.exe.config
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\bin\Debug\Ejercicio Nro 27.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\bin\Debug\Ejercicio Nro 27.pdb
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.exe
+C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.pdb
