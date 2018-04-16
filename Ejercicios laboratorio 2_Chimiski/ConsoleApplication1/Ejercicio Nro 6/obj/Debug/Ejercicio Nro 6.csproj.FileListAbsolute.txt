@@ -16,3 +16,9 @@ C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\C
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\bin\Debug\Ejercicio Nro 6.pdb
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\obj\Debug\Ejercicio Nro 6.exe
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\obj\Debug\Ejercicio Nro 6.pdb
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\bin\Debug\Ejercicio Nro 6.exe.config
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\bin\Debug\Ejercicio Nro 6.exe
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\bin\Debug\Ejercicio Nro 6.pdb
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\obj\Debug\Ejercicio Nro 6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\obj\Debug\Ejercicio Nro 6.exe
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 6\obj\Debug\Ejercicio Nro 6.pdb

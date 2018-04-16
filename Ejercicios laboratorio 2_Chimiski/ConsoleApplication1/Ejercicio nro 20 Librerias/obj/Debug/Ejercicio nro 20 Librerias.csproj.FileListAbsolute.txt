@@ -2,3 +2,9 @@ C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\C
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\bin\Debug\Ejercicio nro 20 Librerias.pdb
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.dll
 C:\Users\alumno\Desktop\Nueva carpeta\Labo 2\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.pdb
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\bin\Debug\Ejercicio nro 20 Librerias.dll
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\bin\Debug\Ejercicio nro 20 Librerias.pdb
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.dll
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio nro 20 Librerias\obj\Debug\Ejercicio nro 20 Librerias.pdb
