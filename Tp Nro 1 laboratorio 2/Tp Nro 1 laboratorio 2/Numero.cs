@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tp_Nro_1_laboratorio_2
 {
-    class Numero
+    public class Numero
     {
         private double numero;
         
@@ -48,6 +48,36 @@ namespace Tp_Nro_1_laboratorio_2
 
         }
 
+        public double operator -(Numero n1, Numero n2)
+        {
+            return n1.numero + n2.numero;
+        }
+
+        public double operator +(Numero n1, Numero n2)
+        {
+            return n1.numero - n2.numero;
+        }
+
+        public double operator *(Numero n1, Numero n2)
+        {
+            return n1.numero * n2.numero;
+        }
+
+        public double operator /(Numero n1, Numero n2)
+        {
+            return n1.numero / n2.numero;
+        }
+
+        private double ValidarNumero(string strNumero)
+        {
+            double n;
+            bool isNumeric = double.TryParse(strNumero, out n);
+            if (isNumeric)
+            {
+                return n;
+            }
+            return 0;
+        }
 
     }
 }

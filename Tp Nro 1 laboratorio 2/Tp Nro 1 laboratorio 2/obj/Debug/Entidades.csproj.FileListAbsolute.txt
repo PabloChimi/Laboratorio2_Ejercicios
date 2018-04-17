@@ -1,2 +1,3 @@
 C:\Users\Admin\source\repos\Tp Nro 1 laboratorio 2\Tp Nro 1 laboratorio 2\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Admin\source\repos\Tp Nro 1 laboratorio 2\Tp Nro 1 laboratorio 2\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Labo 2\Tp Nro 1 laboratorio 2\Tp Nro 1 laboratorio 2\bin\Debug\Tp Nro 1 laboratorio 2.exe.config
