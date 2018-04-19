@@ -9,7 +9,16 @@ namespace Tp_Nro_1_laboratorio_2
     public class Numero
     {
         private double numero;
+
+        private string SetNumero
+        {
+            set
+            {
+                this.numero = ValidarNumero(value);
+            }
+        }
         
+
         public Numero()
         {
 
@@ -17,12 +26,12 @@ namespace Tp_Nro_1_laboratorio_2
 
         public Numero(string numero)
         {
-
+            this.SetNumero = numero;
         }
 
         public Numero(double numero)
         {
-
+            this.numero = numero;
         }
 
         public string BinarioDecimal(string binario)
@@ -74,22 +83,22 @@ namespace Tp_Nro_1_laboratorio_2
             return retorno;     
         }
 
-        public double operator -(Numero n1, Numero n2)
+        public static double operator -(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;
         }
 
-        public double operator +(Numero n1, Numero n2)
+        public static double operator +(Numero n1, Numero n2)
         {
             return n1.numero - n2.numero;
         }
 
-        public double operator *(Numero n1, Numero n2)
+        public static double operator *(Numero n1, Numero n2)
         {
             return n1.numero * n2.numero;
         }
 
-        public double operator /(Numero n1, Numero n2)
+        public static double operator /(Numero n1, Numero n2)
         {
             return n1.numero / n2.numero;
         }
