@@ -48,6 +48,32 @@ namespace Tp_Nro_1_laboratorio_2
 
         }
 
+        public string DecimalBinario(double numero)
+        {
+            string binario = "";
+            while (numero != 0)
+            {
+                if (numero % 2 == 0)
+                {
+                    numero = numero / 2;
+                    binario = "0" + binario;
+                }
+                else
+                {
+                    numero = (numero - 1) / 2;
+                    binario = "1" + binario;
+                }
+            }
+            return binario;
+        }
+
+        public string DecimalBinario(string numero)
+        {
+            string retorno;
+            retorno = DecimalBinario(double.Parse(numero));
+            return retorno;     
+        }
+
         public double operator -(Numero n1, Numero n2)
         {
             return n1.numero + n2.numero;

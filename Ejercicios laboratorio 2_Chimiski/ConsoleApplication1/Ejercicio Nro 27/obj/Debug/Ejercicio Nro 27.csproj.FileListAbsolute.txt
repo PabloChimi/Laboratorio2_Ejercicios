@@ -10,3 +10,6 @@ C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.exe
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\bin\Debug\Ejercicio Nro 27.exe.config
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 27\obj\Debug\Ejercicio Nro 27.pdb
