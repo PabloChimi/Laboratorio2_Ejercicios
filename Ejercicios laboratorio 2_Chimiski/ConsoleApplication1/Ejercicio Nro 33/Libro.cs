@@ -8,13 +8,17 @@ namespace Ejercicio_Nro_33
 {
     class Libro
     {
-        private List<string> paginas = new List<string>(10);
+        private List<string> paginas;
 
+        public Libro()
+        {
+            this.paginas = new List<string>(10);
+        }
         public string this[int i]
         {
             get
             {
-                if (i < paginas.Capacity)
+                if (i < paginas.Count)
                 {
                     return paginas.ElementAt(i);
                 }
@@ -29,13 +33,17 @@ namespace Ejercicio_Nro_33
 
                 if (i < paginas.Count) //Ver bien esta parte
                 {
+                    for (int j = 0; j < 0; j++)
+                    {
+                        if (ReferenceEquals(paginas[j], null) && i != j)
+                        {
+                        }
+                    }
                     paginas[i] = value;
                 }
                 else
                 {
-                    List<string> nuevoLibro = new List<string>(paginas.Capacity - i);
-                    nuevoLibro.Concat(nuevoLibro);
-                    paginas[i] = value;
+                    paginas.Add(value);
                 }
             }
         }
