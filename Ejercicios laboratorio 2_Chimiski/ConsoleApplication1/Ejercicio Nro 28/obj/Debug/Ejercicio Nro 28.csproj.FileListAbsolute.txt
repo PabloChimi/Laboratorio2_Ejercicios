@@ -1,0 +1,8 @@
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\bin\Debug\Ejercicio Nro 28.exe.config
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\bin\Debug\Ejercicio Nro 28.exe
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\bin\Debug\Ejercicio Nro 28.pdb
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\obj\Debug\Ejercicio Nro 28.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\obj\Debug\Ejercicio_Nro_28.Contador_de_palabras.resources
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\obj\Debug\Ejercicio Nro 28.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\obj\Debug\Ejercicio Nro 28.exe
+C:\Users\alumno\Desktop\ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 28\obj\Debug\Ejercicio Nro 28.pdb
