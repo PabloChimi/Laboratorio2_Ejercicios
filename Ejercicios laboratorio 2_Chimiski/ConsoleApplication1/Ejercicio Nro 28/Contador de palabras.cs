@@ -21,7 +21,7 @@ namespace Ejercicio_Nro_28
         {
             int inicio = 0;
             int fin;
-            string texto = textBox1.ToString();
+            string texto = textBox1.Text;
             Dictionary<string, int> aparicionPalabras = new Dictionary<string, int>();
 
             for(int i = 0 ; i<texto.Length ; i++)
@@ -41,6 +41,13 @@ namespace Ejercicio_Nro_28
                 }
 
             }
+
+            Dictionary<string, int>.KeyCollection keyColl = aparicionPalabras.Keys;
+            foreach( string s in keyColl )
+            {
+                Console.WriteLine("La palabra {0} tiene {1} apariciones.", s, aparicionPalabras[s]);
+            }
+            Console.ReadLine();
 
         }
     }
