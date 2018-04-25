@@ -39,7 +39,7 @@ namespace Ejercicio_Nro_31
         }
 
 
-        public static enum Puesto
+        public enum Puesto
         {
             Caja1,
             Caja2

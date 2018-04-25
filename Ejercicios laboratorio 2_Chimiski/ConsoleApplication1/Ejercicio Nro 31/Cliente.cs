@@ -36,10 +36,9 @@ namespace Ejercicio_Nro_31
             this.numero = numero;
         }
 
-        public Cliente(int numero, string nombre)
+        public Cliente(int numero, string nombre) : this(numero)
         {
-            this.numero = numero;
-            Nombre = nombre;
+            this.Nombre = nombre;
         }
 
         public static bool operator ==(Cliente c1, Cliente c2)

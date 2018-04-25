@@ -16,28 +16,35 @@ namespace Ejercicio_Nro_29
 
         private Jugador()
         {
-            this.dni = 0;
+
+            Random rnd = new Random();
+            this.dni = rnd.Next(1, 50000000);
             this.nombre = "";
             this.partidosJugados = 0;
             this.promedioGoles = 0;
             this.totalGoles = 0;
         }
 
-        public Jugador(string nombre)
+        public Jugador(string nombre) : this()
         {
-            this.dni = 0;
             this.nombre = nombre;
-            this.partidosJugados = 0;
-            this.promedioGoles = 0;
-            this.totalGoles = 0;
         }
-        public Jugador(string nombre, int totalGoles, int totalPArtidos)
+
+        public Jugador(string nombre, int totalGoles, int totalPArtidos) : this()
         {
-            this.dni = 0;
             this.nombre = nombre;
             this.partidosJugados = totalPArtidos;
-            this.promedioGoles = 0;
             this.totalGoles = totalGoles;
+        }
 
+        public static bool operator ==(Jugador j1, Jugador j2)
+        {
+            return j1.dni == j2.dni;
+        }
+
+        public static bool operator !=(Jugador j1, Jugador j2)
+        {
+            return !(j1 == j2);
+        }
     }
 }

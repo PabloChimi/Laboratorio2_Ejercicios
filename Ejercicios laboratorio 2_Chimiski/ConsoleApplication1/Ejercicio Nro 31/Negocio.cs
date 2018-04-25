@@ -16,7 +16,14 @@ namespace Ejercicio_Nro_31
         {
             get
             {
-                return clientes.Dequeue();
+                if (clientes.Count == 0)
+                {
+                    return null;
+                }
+                else
+                {
+                    return clientes.Dequeue();
+                }
             }
             set
             {
@@ -33,16 +40,26 @@ namespace Ejercicio_Nro_31
             this.caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1);
         }
 
-        public Negocio(string nombre)
+        public Negocio(string nombre) : this()
         {
             this.nombre = nombre;
-            this.clientes = new Queue<Cliente>();
-            this.caja = new PuestoAtencion(PuestoAtencion.Puesto.Caja1);
         }
 
         public static bool operator ==(Negocio n, Cliente c)
         {
-            return n.clientes.Contains(c);
+            //Array arrayPrueba = Array.CreateInstance(typeof(Cliente), n.clientes.Count);
+            Cliente[] myStandardArray = n.clientes.ToArray();
+            for (int i = 0; i <myStandardArray.Length; i++)
+            {
+                Console.WriteLine("Paso para ver si esta");
+                Console.WriteLine("El cliente {0} es igual a {1}", myStandardArray[i].Numero, c.Numero);
+                if (myStandardArray[i] == c)
+                {
+                    Console.WriteLine("El cliente {0} es igual a {1}", myStandardArray[i].Numero, c.Numero);
+                    return true;
+                }
+            }
+            return false;
         }
 
         public static bool operator !=(Negocio n, Cliente c)
@@ -65,7 +82,7 @@ namespace Ejercicio_Nro_31
         {
             if (n.clientes.Count != 0)
             {
-                n.caja.Atender(n.clientes.Dequeue());
+                n.caja.Atender(n.Cliente);
                 return true;
             }
             return false;
