@@ -22,3 +22,9 @@ C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\Ejercicio Nro 1.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\Ejercicio Nro 1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

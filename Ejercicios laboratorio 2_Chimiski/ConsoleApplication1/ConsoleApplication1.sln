@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2037
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro 1", "ConsoleApplication1\Ejercicio Nro 1.csproj", "{BE35AFA4-8D31-4EE8-8320-D6F53AAE3F38}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro 2", "Ejercicio Nro 2\Ejercicio Nro 2.csproj", "{FA98852F-2ED0-4BD7-BE6F-14E91951C1AF}"
@@ -54,6 +52,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro 34", "Ejercicio Nro 34\Ejercicio Nro 34.csproj", "{0A81C96F-E5EC-4734-AFDA-A1BA8751A50B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro 32", "Ejercicio Nro 32\Ejercicio Nro 32.csproj", "{F9044E71-AF45-4AB6-8F4D-E7FB1D5BFB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio Nro 37", "Ejercicio Nro 37\Ejercicio Nro 37.csproj", "{728E34C2-99CF-44D2-9A47-0C8489954BF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +165,10 @@ Global
 		{F9044E71-AF45-4AB6-8F4D-E7FB1D5BFB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9044E71-AF45-4AB6-8F4D-E7FB1D5BFB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9044E71-AF45-4AB6-8F4D-E7FB1D5BFB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728E34C2-99CF-44D2-9A47-0C8489954BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728E34C2-99CF-44D2-9A47-0C8489954BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728E34C2-99CF-44D2-9A47-0C8489954BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728E34C2-99CF-44D2-9A47-0C8489954BF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

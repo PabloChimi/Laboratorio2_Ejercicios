@@ -4,3 +4,8 @@ C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\obj\Debug\Informacion Materia.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\obj\Debug\Informacion Materia.exe
 C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\obj\Debug\Informacion Materia.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\bin\Debug\Informacion Materia.exe.config
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\bin\Debug\Informacion Materia.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\bin\Debug\Informacion Materia.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\obj\Debug\Informacion Materia.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Informacion Materia\obj\Debug\Informacion Materia.pdb
