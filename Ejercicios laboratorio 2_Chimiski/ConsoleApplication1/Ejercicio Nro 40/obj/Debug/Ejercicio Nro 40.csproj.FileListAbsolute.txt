@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\bin\Debug\Ejercicio Nro 40.exe.config
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\bin\Debug\Ejercicio Nro 40.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\bin\Debug\Ejercicio Nro 40.pdb
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\obj\Debug\Ejercicio Nro 40.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\obj\Debug\Ejercicio Nro 40.exe
+C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 40\obj\Debug\Ejercicio Nro 40.pdb
