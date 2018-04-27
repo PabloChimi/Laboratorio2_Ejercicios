@@ -8,9 +8,15 @@ namespace Ejercicio_Nro_37
 {
     public abstract class Llamada
     {
+        #region atributos
+
         protected float duracion;
         protected string nroDestino;
         protected string nroOrigen;
+
+        #endregion
+
+        #region propiedades
 
         public abstract float CostoLlamada
         {
@@ -39,6 +45,10 @@ namespace Ejercicio_Nro_37
             }
         }
 
+        #endregion
+
+        #region constructores
+
         //Ver si esta bien la implementacion del constructor
         public Llamada(float duracion, string nroDestino, string nroOrigen)
         {
@@ -46,6 +56,10 @@ namespace Ejercicio_Nro_37
             this.nroDestino = nroDestino;
             this.duracion = duracion;
         }
+
+        #endregion
+
+        #region metodos
 
         public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
@@ -57,6 +71,10 @@ namespace Ejercicio_Nro_37
             retorno = (llamada1.Duracion > llamada2.Duracion) ? 1 : -1;
             return retorno;
         }
+
+        #endregion
+
+        #region sobrecarga de operadores
 
         public static bool operator ==(Llamada llamada1, Llamada llamada2)
         {
@@ -72,6 +90,10 @@ namespace Ejercicio_Nro_37
             return !(llamada1 == llamada2);
         }
 
+        #endregion
+
+        #region sobrecarga de metodos
+
         protected virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -79,13 +101,18 @@ namespace Ejercicio_Nro_37
             return sb.ToString();
         }
 
+        #endregion
+
+        #region enums
+
         public enum TipoLlamada
         {
             Local = 0,
             Provincial = 1,
             Todas = 2,
         }
-        
+
+        #endregion
 
     }
 }

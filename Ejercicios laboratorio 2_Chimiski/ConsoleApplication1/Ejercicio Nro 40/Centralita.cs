@@ -9,9 +9,14 @@ namespace Ejercicio_Nro_37
 {
     public class Centralita
     {
-
+        #region atributos
+        
         private List<Llamada> listaDeLlamadas;
         protected string razonSocial;
+        
+        #endregion
+
+        #region propiedades
 
         public float GananciasPorLocal
         {
@@ -42,6 +47,10 @@ namespace Ejercicio_Nro_37
             }
         }
 
+        #endregion
+
+        #region constructores
+
         public Centralita()
         {
             this.listaDeLlamadas = new List<Llamada>();
@@ -52,38 +61,15 @@ namespace Ejercicio_Nro_37
             this.razonSocial = nombreEmpresa;
         }
 
+        #endregion
+
+        #region metodos
+
         private void AgregarLlamada(Llamada nuevaLlamada)
         {
             this.listaDeLlamadas.Add(nuevaLlamada);
         }
-
-        public static bool operator +(Centralita c, Llamada l)
-        {
-            if (c != l)
-            {
-                c.AgregarLlamada(l);
-                return true;
-            }
-            return false;
-        }
-
-        public static bool operator ==(Centralita c, Llamada l)
-        {
-            for(int i = 0; i < c.Llamadas.Count ; i++)
-            {
-                if(c.Llamadas[i] == l)
-                {
-                    return false;
-                }
-            }
-            return true;
-        }
-
-        public static bool operator !=(Centralita c, Llamada l)
-        {
-            return !(c == l);
-        }
-
+                
         private float CalcularGanancia(Llamada.TipoLlamada tipo)
         {
             float gananciaTotal = 0;
@@ -129,6 +115,11 @@ namespace Ejercicio_Nro_37
             return retorno;
         }
 
+        public void OrdenarLlamada()
+        {
+            this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+        }
+
         private string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -155,14 +146,46 @@ namespace Ejercicio_Nro_37
             return sb.ToString();
         }
 
+        #endregion
+
+        #region sobrecarga de metodos
+
         public override string ToString()
         {
             return this.Mostrar();
         }
+        
+        #endregion
 
-        public void OrdenarLlamada()
+        #region sobrecarga de operadores
+
+        public static bool operator +(Centralita c, Llamada l)
         {
-            this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+            if (c != l)
+            {
+                c.AgregarLlamada(l);
+                return true;
+            }
+            return false;
         }
+
+        public static bool operator ==(Centralita c, Llamada l)
+        {
+            for (int i = 0; i < c.Llamadas.Count; i++)
+            {
+                if (c.Llamadas[i] == l)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        public static bool operator !=(Centralita c, Llamada l)
+        {
+            return !(c == l);
+        }
+
+        #endregion
     }
 }

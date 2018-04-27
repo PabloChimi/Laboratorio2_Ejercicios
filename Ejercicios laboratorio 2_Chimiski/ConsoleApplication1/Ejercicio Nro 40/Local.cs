@@ -8,7 +8,13 @@ namespace Ejercicio_Nro_37
 {
     public class Local : Llamada
     {
+        #region atributos
+
         protected float costo;
+
+        #endregion
+
+        #region propiedades
 
         public override float CostoLlamada
         {
@@ -17,6 +23,10 @@ namespace Ejercicio_Nro_37
                 return CalcularCosto();
             }
         }
+
+        #endregion
+
+        #region Constructores
 
         public Local(Llamada llamada, float costo) : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
         {
@@ -29,10 +39,18 @@ namespace Ejercicio_Nro_37
             this.costo = costo;
         }
 
+        #endregion
+
+        #region metodos
+
         private float CalcularCosto()
         {
             return this.costo * Duracion;
         }
+
+        #endregion
+
+        #region sobrecarga metodos
 
         public override bool Equals(object obj)
         {
@@ -54,5 +72,6 @@ namespace Ejercicio_Nro_37
             sb.AppendFormat("{0} Costo llamada: {1,4}", base.Mostrar(), this.CostoLlamada);
             return sb.ToString();
         }
+        #endregion
     }
 }

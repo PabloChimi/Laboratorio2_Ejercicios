@@ -8,7 +8,11 @@ namespace Ejercicio_Nro_37
 {
     public class Provincial : Llamada
     {
+        #region atributos
+
         protected Franja franjaHoraria;
+
+        #endregion
 
         #region propiedades
         public override float CostoLlamada
@@ -21,6 +25,7 @@ namespace Ejercicio_Nro_37
         #endregion
 
         #region constructores
+
         public Provincial(Franja miFranja, Llamada llamada)
             : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
         {
@@ -34,39 +39,12 @@ namespace Ejercicio_Nro_37
         }
         #endregion
 
+        #region metodos
+
         private float CalcularCosto()
         {
             return Duracion * GetFranjaValue(this.franjaHoraria);
         }
-
-        public override bool Equals(object obj)
-        {
-            if (obj is Provincial)
-            {
-                return true;
-            }
-            return false;
-        }
-
-        protected override string Mostrar()
-        {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("{0} Franja horaria: {1,5} Costo llamada: {2,4}", base.Mostrar(), this.franjaHoraria, this.CostoLlamada);
-            return sb.ToString();
-        }
-
-        public override string ToString()
-        {
-            return this.Mostrar();
-        }
-
-        public enum Franja
-        {
-            Franja_1,
-            Franja_2,
-            Franja_3,
-        }
-        
         public float GetFranjaValue(Franja franja)
         {
             float retorno;
@@ -95,5 +73,43 @@ namespace Ejercicio_Nro_37
             }
             return retorno;
         }
+        #endregion
+
+        #region sobrecarga de metodos
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Provincial)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        protected override string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat("{0} Franja horaria: {1,5} Costo llamada: {2,4}", base.Mostrar(), this.franjaHoraria, this.CostoLlamada);
+            return sb.ToString();
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        #endregion
+
+        #region enumeraciones
+
+        public enum Franja
+        {
+            Franja_1,
+            Franja_2,
+            Franja_3,
+        }
+
+        #endregion
+
     }
 }
