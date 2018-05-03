@@ -1,0 +1,14 @@
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\bin\Debug\Centralita 2.0.exe.config
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\bin\Debug\Centralita 2.0.exe
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\bin\Debug\Centralita 2.0.pdb
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita 2.0.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita_2._0.Central.resources
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita_2._0.Llamador.resources
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita_2._0.Properties.Resources.resources
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita 2.0.csproj.GenerateResource.Cache
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita 2.0.exe
+D:\VisualStudio\Centralita 2.0\Centralita 2.0\obj\Debug\Centralita 2.0.pdb
+C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\bin\Debug\Centralita 2.0.exe.config
+C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.exe
+C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.pdb
+C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.csprojResolveAssemblyReference.cache
