@@ -12,3 +12,6 @@ C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\bin\Debug\Centralita 2.0
 C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.exe
 C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.pdb
 C:\Users\alumno\Desktop\ejers\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.exe
+C:\Users\Admin\Documents\GitHub\Laboratorio2_Ejercicios\centralita\Centralita 2.0\obj\Debug\Centralita 2.0.pdb

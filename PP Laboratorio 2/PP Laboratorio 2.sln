@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP Laboratorio 2", "PP Laboratorio 2\PP Laboratorio 2.csproj", "{A29E7524-B97E-408E-B4AE-721DD6CA981E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadFinanciera", "EntidadFinanciera\EntidadFinanciera.csproj", "{4AB1FD81-E5F0-4369-A72F-03EFD37A79AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A29E7524-B97E-408E-B4AE-721DD6CA981E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29E7524-B97E-408E-B4AE-721DD6CA981E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29E7524-B97E-408E-B4AE-721DD6CA981E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29E7524-B97E-408E-B4AE-721DD6CA981E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB1FD81-E5F0-4369-A72F-03EFD37A79AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB1FD81-E5F0-4369-A72F-03EFD37A79AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB1FD81-E5F0-4369-A72F-03EFD37A79AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB1FD81-E5F0-4369-A72F-03EFD37A79AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9EF1E1-308F-4EE5-B1AD-9FF9B07F85FB}
+	EndGlobalSection
+EndGlobal

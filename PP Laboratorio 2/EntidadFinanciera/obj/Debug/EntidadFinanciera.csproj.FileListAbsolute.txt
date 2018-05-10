@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\obj\Debug\EntidadFinanciera.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\obj\Debug\EntidadFinanciera.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\bin\Debug\EntidadFinanciera.dll
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\bin\Debug\EntidadFinanciera.pdb
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\obj\Debug\EntidadFinanciera.dll
+C:\Users\Admin\source\repos\PP Laboratorio 2\EntidadFinanciera\obj\Debug\EntidadFinanciera.pdb
