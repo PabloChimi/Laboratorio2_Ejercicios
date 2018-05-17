@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 41\bin\Debug\Ejercicio Nro 41.exe.config
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 41\bin\Debug\Ejercicio Nro 41.exe
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 41\bin\Debug\Ejercicio Nro 41.pdb
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 41\obj\Debug\Ejercicio Nro 41.exe
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 41\obj\Debug\Ejercicio Nro 41.pdb

@@ -19,3 +19,11 @@ C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleAppl
 C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.exe
 C:\Users\alumno\Desktop\Ejercicios\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.pdb
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.exe.config
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.exe
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio Nro 20.pdb
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio nro 20 Librerias.dll
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\bin\Debug\Ejercicio nro 20 Librerias.pdb
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.exe
+C:\Users\alumno\Desktop\Ejercdicos\Ejercicios laboratorio 2_Chimiski\ConsoleApplication1\Ejercicio Nro 20\obj\Debug\Ejercicio Nro 20.pdb
