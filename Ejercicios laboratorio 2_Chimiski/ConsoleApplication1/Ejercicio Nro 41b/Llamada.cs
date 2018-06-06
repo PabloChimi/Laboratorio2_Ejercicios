@@ -78,7 +78,7 @@ namespace Ejercicio_Nro_41b
 
         public static bool operator ==(Llamada llamada1, Llamada llamada2)
         {
-            if (llamada1.Equals(llamada2) && llamada1.NroOrigen == llamada2.NroOrigen && llamada1.NroDestino == llamada2.NroDestino)
+            if ((llamada1.Equals(llamada2)) && (llamada1.NroOrigen == llamada2.NroOrigen) && (llamada1.NroDestino == llamada2.NroDestino))
             {
                 return true;
             }
