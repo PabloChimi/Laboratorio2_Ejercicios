@@ -1,0 +1,8 @@
+D:\VisualStudio\Ej 60\Ej 60\bin\Debug\Ej 60.exe.config
+D:\VisualStudio\Ej 60\Ej 60\bin\Debug\Ej 60.exe
+D:\VisualStudio\Ej 60\Ej 60\bin\Debug\Ej 60.pdb
+D:\VisualStudio\Ej 60\Ej 60\obj\Debug\Ej 60.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ej 60\Ej 60\obj\Debug\Ej_60.Form1.resources
+D:\VisualStudio\Ej 60\Ej 60\obj\Debug\Ej 60.csproj.GenerateResource.Cache
+D:\VisualStudio\Ej 60\Ej 60\obj\Debug\Ej 60.exe
+D:\VisualStudio\Ej 60\Ej 60\obj\Debug\Ej 60.pdb

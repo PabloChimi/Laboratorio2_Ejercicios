@@ -1,0 +1,5 @@
+D:\VisualStudio\Ej 60\Producto\bin\Debug\Producto.dll
+D:\VisualStudio\Ej 60\Producto\bin\Debug\Producto.pdb
+D:\VisualStudio\Ej 60\Producto\obj\Debug\Producto.dll
+D:\VisualStudio\Ej 60\Producto\obj\Debug\Producto.pdb
+D:\VisualStudio\Ej 60\Producto\obj\Debug\Producto.csprojResolveAssemblyReference.cache

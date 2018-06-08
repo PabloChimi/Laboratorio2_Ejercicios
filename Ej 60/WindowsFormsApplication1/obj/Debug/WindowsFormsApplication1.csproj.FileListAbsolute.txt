@@ -1,0 +1,12 @@
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\bin\Debug\Producto.dll
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\bin\Debug\Producto.pdb
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\VisualStudio\Ej 60\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Tabla.resources
